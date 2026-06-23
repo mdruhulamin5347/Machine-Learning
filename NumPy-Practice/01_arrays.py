@@ -40,6 +40,32 @@ reshapenewarr = reshapearr.reshape(4, 3)
 # newarr = arr.reshape(6)
 
 
-arr = np.array([[1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12]])
-newarr = arr.reshape(-1)
+# arr = np.array([[1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12]])
+# newarr = arr.reshape(-1)
 # print(newarr)
+
+
+# arr = np.array([[1, 2, 3], [4, 5, 6]])
+# for x in arr:
+#   print(x)
+
+
+# arr = np.array([[[1, 2, 3], [4, 5, 6]], [[7, 8, 9], [10, 11, 12]]])
+
+# for x in arr:
+#   print(x)
+
+
+# arr = np.array([[[1, 2, 3], [4, 5, 6]], [[7, 8, 9], [10, 11, 12]]])
+
+# for x in arr:
+#   for y in x:
+#     for z in y:
+#       print(z)
+
+
+
+arr = np.array([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])
+
+for x in np.nditer(arr):
+  print(x)
