@@ -21,4 +21,11 @@ higher_dim_arr = np.array([43,53,23,343,23], ndmin=5)
 # print(three_d_arr[0:2,0:2,2])           # slicing array value of numpy
 
 datatypearr = np.array([4,32,34,52])
-print(datatypearr.dtype)
+# print(datatypearr.dtype)
+cparr = datatypearr.copy()
+vwarr = datatypearr.view()
+cparr[0]=100
+vwarr[0]=100
+# print(datatypearr)
+# print(cparr.base)
+# print(vwarr.base)
