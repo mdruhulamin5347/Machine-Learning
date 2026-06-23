@@ -33,4 +33,13 @@ vwarr[0]=100
 
 reshapearr = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
 reshapenewarr = reshapearr.reshape(4, 3)
-print(reshapenewarr)
+# print(reshapenewarr)
+# print(reshapearr.reshape(4, 3).base)
+
+# arr = np.array([[1, 2, 3], [4, 5, 6]])
+# newarr = arr.reshape(6)
+
+
+arr = np.array([[1, 2, 3, 4, 5, 6], [7, 8, 9, 10, 11, 12]])
+newarr = arr.reshape(-1)
+# print(newarr)
