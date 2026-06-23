@@ -110,3 +110,9 @@ reshapenewarr = reshapearr.reshape(4, 3)
 # arr2 = np.array([4, 5, 6])
 # arr = np.dstack((arr1, arr2))
 # print(arr)
+
+
+
+arr = np.array([1, 2, 3, 4, 5, 6])
+newarr = np.array_split(arr, 3)
+print(newarr)
