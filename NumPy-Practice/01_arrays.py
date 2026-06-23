@@ -151,3 +151,23 @@ reshapenewarr = reshapearr.reshape(4, 3)
 
 # arr = np.array([[3, 2, 4], [5, 0, 1]])
 # print(np.sort(arr))
+
+
+
+arr = np.array([41, 42, 43, 44])
+x = [False, False, True, False]
+newarr = arr[x]
+print(newarr)
+
+
+
+arr = np.array([41, 42, 43, 44])
+filter_arr = []
+for element in arr:
+  if element > 42:
+    filter_arr.append(True)
+  else:
+    filter_arr.append(False)
+newarr = arr[filter_arr]
+print(filter_arr)
+print(newarr)
