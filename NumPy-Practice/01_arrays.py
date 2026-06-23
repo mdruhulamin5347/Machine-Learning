@@ -120,18 +120,34 @@ reshapenewarr = reshapearr.reshape(4, 3)
 
 
 
-arr = np.array([10, 14, 93, 41, 8, 7])
-x = np.where(arr%2 == 0)
-print(x)
+# arr = np.array([10, 14, 93, 41, 8, 7])
+# x = np.where(arr%2 == 0)
+# print(x)
 
 
 
-arr = np.array([6, 7, 8, 9 ])
-x = np.searchsorted(arr, 7, side='right')
-print(x)
+# arr = np.array([6, 7, 8, 9 ])
+# x = np.searchsorted(arr, 7, side='right')
+# print(x)
 
 
 
-arr = np.array([1, 3, 5, 7])
-x = np.searchsorted(arr, [2, 4, 6])
-print(x)
+# arr = np.array([1, 3, 5, 7])
+# x = np.searchsorted(arr, [2, 4, 6])
+# print(x)
+
+
+
+
+arr = np.array([3, 2, 0, 1])
+print(np.sort(arr))
+
+
+
+arr = np.array(['banana', 'cherry', 'apple'])
+print(np.sort(arr))
+
+
+
+arr = np.array([[3, 2, 4], [5, 0, 1]])
+print(np.sort(arr))
