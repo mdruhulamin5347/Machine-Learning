@@ -19,3 +19,6 @@ higher_dim_arr = np.array([43,53,23,343,23], ndmin=5)
 # print(list_arr[0] + list_arr[-1])   # array access of numpy
 # print(three_d_arr[1,1,-1])            # multi dim array accessing of numpy
 # print(three_d_arr[0:2,0:2,2])           # slicing array value of numpy
+
+datatypearr = np.array([4,32,34,52])
+print(datatypearr.dtype)
