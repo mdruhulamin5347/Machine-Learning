@@ -140,8 +140,19 @@ import seaborn as sns
 
 # Pareto Distribution
 
-x = random.pareto(a=2, size=(2,3))
+# x = random.pareto(a=2, size=(2,3))
+# print(x)
+
+# sns.displot(random.pareto(a=2, size=1000), kind='kde')
+# plt.show()
+
+
+
+
+#Zipf Distribution 
+
+x = random.zipf(a=2, size=1000)
 print(x)
 
-sns.displot(random.pareto(a=2, size=1000), kind='kde')
+sns.displot(x[x<10])
 plt.show()
