@@ -98,14 +98,35 @@ import numpy as np
 
 
 
-from math import log
 # Logs
-num = np.arange(1,10)
-print(np.log2(num))
+# from math import log
 
-print(np.log10(num))
+# num = np.arange(1,10)
+# print(np.log2(num))
 
-print(np.log(num))
+# print(np.log10(num))
 
-custom = np.frompyfunc(log,2,1)
-print(custom(32,2))
+# print(np.log(num))
+
+# custom = np.frompyfunc(log,2,1)
+# print(custom(32,2))
+
+
+
+
+
+
+
+
+
+# summations
+
+x = np.array([3,5,6,4])
+y = np.array([6,3,5,6])
+
+print(np.sum([x,y]))
+
+
+print(np.sum([x,y],axis=1))
+
+print(np.cumsum([x,y],axis=1))
