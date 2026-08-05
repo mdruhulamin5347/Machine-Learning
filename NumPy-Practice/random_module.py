@@ -98,5 +98,16 @@ import seaborn as sns
 
 # Multinomial Distribution
 
-x = random.multinomial(n=5, pvals=[1/5,1/5,1/5,1/5,1/5], size=10)
+# x = random.multinomial(n=5, pvals=[1/5,1/5,1/5,1/5,1/5], size=10)
+# print(x)
+
+
+
+
+#Exponential Distribution
+
+x = random.exponential(scale=2,  size=(2,3))
 print(x)
+
+sns.displot(random.exponential(size=1000), kind='kde')
+plt.show()
