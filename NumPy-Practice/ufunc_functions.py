@@ -137,9 +137,22 @@ import numpy as np
 
 # NumPy Products
 
-x = np.array([2,3,5,6,4])
-y = np.array([4,6,4,3,7])
+# x = np.array([2,3,5,6,4])
+# y = np.array([4,6,4,3,7])
 
-print(np.prod(x))
-print(np.prod([x,y]))
-print(np.cumprod([x,y],axis=1))
+# print(np.prod(x))
+# print(np.prod([x,y]))
+# print(np.cumprod([x,y],axis=1))
+
+
+
+
+
+
+
+# NumPy Differences
+
+x = np.array([4,5,6,4])
+
+print(np.diff(x))
+print(np.diff(x,n=2))
