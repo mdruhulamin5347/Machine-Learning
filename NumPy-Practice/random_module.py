@@ -36,3 +36,33 @@ import seaborn as sns
 
 
 #Poisson Distribution
+
+# x = random.poisson(lam=2,size=10)
+# print(x)
+
+# sns.displot(random.poisson(lam=2,size=1000))
+# plt.show()
+
+#Difference Between Normal and Poisson Distribution
+
+
+# data = {
+#   "normal": random.normal(loc=50, scale=7, size=1000),
+#   "poisson": random.poisson(lam=50, size=1000)
+# }
+
+# sns.displot(data, kind="kde")
+
+# plt.show()
+
+
+
+
+# uniform Distribution
+
+# x = random.uniform(size=(2,3))
+# y = random.uniform(low=0,high=10,size=100)
+# print(y)
+
+sns.displot(random.uniform(size=1000), kind='kde')
+plt.show()
