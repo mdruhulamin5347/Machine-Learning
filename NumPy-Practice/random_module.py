@@ -64,5 +64,29 @@ import seaborn as sns
 # y = random.uniform(low=0,high=10,size=100)
 # print(y)
 
-sns.displot(random.uniform(size=1000), kind='kde')
+# sns.displot(random.uniform(size=1000), kind='kde')
+# plt.show()
+
+
+
+
+
+#Logistic Distribution
+
+x = random.logistic(loc=1, scale=2, size=(2,3))
+print(x)
+
+
+sns.displot(random.logistic(size=1000), kind='kde')
+plt.show()
+
+#different between logistic and normal distribution
+
+data = {
+    "normal" : random.normal(scale=2, size=1000),
+    "logistic" : random.logistic(size=1000)
+
+}
+
+sns.displot(data, kind="kde")
 plt.show()
