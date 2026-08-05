@@ -185,9 +185,26 @@ import numpy as np
 
 # NumPy GCD Greatest Common Divisor
 
-num1 = 6
-num2 = 9
-x = np.array([6,9,30])
+# num1 = 6
+# num2 = 9
+# x = np.array([6,9,30])
 
-print(np.gcd(num1,num2))
-print(np.gcd.reduce(x))
+# print(np.gcd(num1,num2))
+# print(np.gcd.reduce(x))
+
+
+
+
+
+
+
+
+
+
+# NumPy Trigonometric Functions
+
+print(np.sin(np.pi/2))
+print(np.deg2rad(np.pi/2))
+print(np.rad2deg(np.pi/2))
+print(np.arcsin(1.0))
+print(np.hypot(3,4))
