@@ -73,20 +73,30 @@ import seaborn as sns
 
 #Logistic Distribution
 
-x = random.logistic(loc=1, scale=2, size=(2,3))
+# x = random.logistic(loc=1, scale=2, size=(2,3))
+# print(x)
+
+
+# sns.displot(random.logistic(size=1000), kind='kde')
+# plt.show()
+
+# #different between logistic and normal distribution
+
+# data = {
+#     "normal" : random.normal(scale=2, size=1000),
+#     "logistic" : random.logistic(size=1000)
+
+# }
+
+# sns.displot(data, kind="kde")
+# plt.show()
+
+
+
+
+
+
+# Multinomial Distribution
+
+x = random.multinomial(n=5, pvals=[1/5,1/5,1/5,1/5,1/5], size=10)
 print(x)
-
-
-sns.displot(random.logistic(size=1000), kind='kde')
-plt.show()
-
-#different between logistic and normal distribution
-
-data = {
-    "normal" : random.normal(scale=2, size=1000),
-    "logistic" : random.logistic(size=1000)
-
-}
-
-sns.displot(data, kind="kde")
-plt.show()
