@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+import seaborn as sns
 
 
 
@@ -8,10 +8,6 @@ import numpy as np
 # y = np.array([100,105,84,105,90,99,90,95,94,100,79,112,91,80,85])
 # plt.scatter(x, y)
 
-
-
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 sns.displot([0, 1, 2, 3, 4, 5], kind="kde")
 
