@@ -72,19 +72,40 @@ import numpy as np
 
 # Rounding Decimals
 
-trunc = np.trunc([3.532,6.2342])
-print(trunc)
+# trunc = np.trunc([3.532,6.2342])
+# print(trunc)
 
 
-fix = np.fix([32.4234,53.23424])
-print(fix)
+# fix = np.fix([32.4234,53.23424])
+# print(fix)
 
 
-around = np.around(3.572,2)
-print(around)
+# around = np.around(3.572,2)
+# print(around)
 
-floor = np.floor([43.324,46.64353])
-print(floor)
+# floor = np.floor([43.324,46.64353])
+# print(floor)
 
-ceil = np.ceil([5.45343,-64.32423])
-print(ceil)
+# ceil = np.ceil([5.45343,-64.32423])
+# print(ceil)
+
+
+
+
+
+
+
+
+
+
+from math import log
+# Logs
+num = np.arange(1,10)
+print(np.log2(num))
+
+print(np.log10(num))
+
+print(np.log(num))
+
+custom = np.frompyfunc(log,2,1)
+print(custom(32,2))
