@@ -23,40 +23,68 @@ import numpy as np
 
 # simple mathmatic operations function
 
-x = np.array([10, 20, 30, 40, 50, 60])
-y = np.array([2, 1, 2, 3, 4, 5])
+# x = np.array([10, 20, 30, 40, 50, 60])
+# y = np.array([2, 1, 2, 3, 4, 5])
 
-add = np.add(x,y)
-print(add)
+# add = np.add(x,y)
+# print(add)
 
-subtract = np.subtract(x,y)
-print(subtract)
+# subtract = np.subtract(x,y)
+# print(subtract)
 
-multiply = np.multiply(x,y)
-print(multiply)
-
-
-divide = np.divide(x,y)
-print(divide)
-
-power = np.power(x,y)
-print(power)
+# multiply = np.multiply(x,y)
+# print(multiply)
 
 
-mod = np.mod(x,y)
-print(mod)
+# divide = np.divide(x,y)
+# print(divide)
 
-remainder = np.remainder(x,y)
-print(remainder)
+# power = np.power(x,y)
+# print(power)
 
 
+# mod = np.mod(x,y)
+# print(mod)
 
-divmod = np.divmod(x,y)
-print(divmod)
+# remainder = np.remainder(x,y)
+# print(remainder)
 
 
 
-z = np.array([-1, -2, 1, 2, 3, -4])
+# divmod = np.divmod(x,y)
+# print(divmod)
 
-absolute = np.absolute(z)
-print(absolute)
+
+
+# z = np.array([-1, -2, 1, 2, 3, -4])
+
+# absolute = np.absolute(z)
+# print(absolute)
+
+
+
+
+
+
+
+
+
+
+# Rounding Decimals
+
+trunc = np.trunc([3.532,6.2342])
+print(trunc)
+
+
+fix = np.fix([32.4234,53.23424])
+print(fix)
+
+
+around = np.around(3.572,2)
+print(around)
+
+floor = np.floor([43.324,46.64353])
+print(floor)
+
+ceil = np.ceil([5.45343,-64.32423])
+print(ceil)
