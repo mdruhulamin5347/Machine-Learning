@@ -167,9 +167,27 @@ import numpy as np
 
 # NumPy LCM Lowest Common Multiple
 
-num1 = 6
-num2 = 4
-print(np.lcm(num1,num2))
+# num1 = 6
+# num2 = 4
+# print(np.lcm(num1,num2))
 
-x = np.array([2,3,5,6])
-print(np.lcm.reduce(x))
+# x = np.array([2,3,5,6])
+# print(np.lcm.reduce(x))
+
+
+
+
+
+
+
+
+
+
+# NumPy GCD Greatest Common Divisor
+
+num1 = 6
+num2 = 9
+x = np.array([6,9,30])
+
+print(np.gcd(num1,num2))
+print(np.gcd.reduce(x))
