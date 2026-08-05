@@ -121,12 +121,25 @@ import numpy as np
 
 # summations
 
-x = np.array([3,5,6,4])
-y = np.array([6,3,5,6])
+# x = np.array([3,5,6,4])
+# y = np.array([6,3,5,6])
 
-print(np.sum([x,y]))
+# print(np.sum([x,y]))
+
+# print(np.sum([x,y],axis=1))
+
+# print(np.cumsum([x,y],axis=1))
 
 
-print(np.sum([x,y],axis=1))
 
-print(np.cumsum([x,y],axis=1))
+
+
+
+# NumPy Products
+
+x = np.array([2,3,5,6,4])
+y = np.array([4,6,4,3,7])
+
+print(np.prod(x))
+print(np.prod([x,y]))
+print(np.cumprod([x,y],axis=1))
