@@ -152,7 +152,24 @@ import numpy as np
 
 # NumPy Differences
 
-x = np.array([4,5,6,4])
+# x = np.array([4,5,6,4])
 
-print(np.diff(x))
-print(np.diff(x,n=2))
+# print(np.diff(x))
+# print(np.diff(x,n=2))
+
+
+
+
+
+
+
+
+
+# NumPy LCM Lowest Common Multiple
+
+num1 = 6
+num2 = 4
+print(np.lcm(num1,num2))
+
+x = np.array([2,3,5,6])
+print(np.lcm.reduce(x))
