@@ -203,8 +203,11 @@ import numpy as np
 
 # NumPy Trigonometric Functions
 
-print(np.sin(np.pi/2))
-print(np.deg2rad(np.pi/2))
-print(np.rad2deg(np.pi/2))
-print(np.arcsin(1.0))
-print(np.hypot(3,4))
+# print(np.sin(np.pi/2))       / return sin value
+# print(np.deg2rad(np.pi/2))   / return radian value 
+# print(np.rad2deg(np.pi/2))   / return degree value
+# print(np.arcsin(1.0))        / return angle value 
+# print(np.hypot(3,4))         / return hypotenues value
+
+
+
