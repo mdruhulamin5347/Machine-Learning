@@ -72,8 +72,8 @@ import pandas as pd
 
 # Pandas Read JSON
 
-df = pd.read_json('json_data.json')
-print(df.to_string()) 
+# df = pd.read_json('json_data.json')
+# print(df.to_string()) 
 
 
 
@@ -81,3 +81,7 @@ print(df.to_string())
 
 # Pandas - Analyzing DataFrames
 
+df = pd.read_csv('RadioLens.csv')
+print(df.head(10))
+print(df.tail())
+print(df.info())
