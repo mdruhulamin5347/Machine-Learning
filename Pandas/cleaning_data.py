@@ -48,20 +48,35 @@ import pandas  as pd
 
 # Pandas - Fixing Wrong Data
 
+# df = pd.read_csv('RadioLens.csv')
+
+# df.loc[4,'Age'] = 47
+
+# print(df.to_string())
+
+
+# for x in df.index:
+#   if df.loc[x, "Age"] > 90:
+#     df.loc[x, "Age"] = 90
+
+# print(df.to_string())
+
+
+# for x in df.index:
+#   if df.loc[x, "Age"] > 120:
+#     df.drop(x, inplace = True)
+    
+    
+    
+
+
+
+
+
+# Pandas - Removing Duplicates
+
+
 df = pd.read_csv('RadioLens.csv')
-
-df.loc[4,'Age'] = 47
-
+print(df.duplicated())
+df = df.drop_duplicates()
 print(df.to_string())
-
-
-for x in df.index:
-  if df.loc[x, "Age"] > 90:
-    df.loc[x, "Age"] = 90
-
-print(df.to_string())
-
-
-for x in df.index:
-  if df.loc[x, "Age"] > 120:
-    df.drop(x, inplace = True)
