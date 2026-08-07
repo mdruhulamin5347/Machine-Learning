@@ -1,5 +1,12 @@
-{
-    "motherboard":20500,
-    "processor":22000,
-    "ram":28400
-}
+[
+    {
+        "name": "Ruhul",
+        "age": 22,
+        "city": "Dhaka"
+    },
+    {
+        "name": "Hasan",
+        "age": 24,
+        "city": "Rajshahi"
+    }
+]
