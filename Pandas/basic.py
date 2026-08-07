@@ -55,12 +55,25 @@ import pandas as pd
 
 # Pandas Read CSV
 
-print(pd.options.display.max_rows)
+# print(pd.options.display.max_rows)
 
-pd.options.display.max_rows = 9999
+# pd.options.display.max_rows = 9999
 
-df = pd.read_csv('RadioLens.csv')
-print(df)
+# df = pd.read_csv('RadioLens.csv')
+# print(df)
+
+
+
+
+
+
+
+
+
+# Pandas Read JSON
+
+df = pd.read_json('json_data.json')
+print(df.to_string()) 
 
 
 
