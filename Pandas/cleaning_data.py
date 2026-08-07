@@ -14,13 +14,30 @@ import pandas  as pd
 
 # Empty Cells
 
-df = pd.read_csv("RadioLens.csv")
-# df = df.dropna()
+# df = pd.read_csv("RadioLens.csv")
+# # df = df.dropna()
 
 
-x = df["Age"].mean()
-y = df["Age"].median()
-z = df["Age"].mode()[0]
-df = df.fillna({"age": x}, inplace = True)
+# x = df["Age"].mean()
+# y = df["Age"].median()
+# z = df["Age"].mode()[0]
+# df = df.fillna({"age": x}, inplace = True)
+
+# print(df.to_string())
+
+
+
+
+
+
+
+# Data of Wrong Format 
+
+df = pd.read_csv('RadioLens.csv')
+
+df['Arrival Time'] = pd.to_datetime(df['Arrival Time'], format='mixed')
+
+df.dropna(subset=['Arrival Time'], inplace = True)
 
 print(df.to_string())
+
