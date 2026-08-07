@@ -26,25 +26,43 @@ import pandas as pd
 
 # Pandas DataFrame
 
-my_data = {
-    "product": [
-        "Motherboard",
-        "Processor",
-        "RAM",
-        "HDD",
-        "Power Supplier"
-    ],
-    "price" : [
-        "20500",
-        "22000",
-        "28400",
-        "14000",
-        "12999"
-    ]
-}
+# my_data = {
+#     "product": [
+#         "Motherboard",
+#         "Processor",
+#         "RAM",
+#         "HDD",
+#         "Power Supplier"
+#     ],
+#     "price" : [
+#         "20500",
+#         "22000",
+#         "28400",
+#         "14000",
+#         "12999"
+#     ]
+# }
 
-results = pd.DataFrame(my_data,index=["a","b","c","d","e"])
-# print(results)
-print(results.loc["a"])
+# results = pd.DataFrame(my_data,index=["a","b","c","d","e"])
+# # print(results)
+# print(results.loc["a"])
+
+
+
+
+
+
+
+# Pandas Read CSV
+
+print(pd.options.display.max_rows)
+
+pd.options.display.max_rows = 9999
+
+df = pd.read_csv('RadioLens.csv')
+print(df)
+
+
+
 
 
