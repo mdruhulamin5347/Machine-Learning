@@ -33,11 +33,35 @@ import pandas  as pd
 
 # Data of Wrong Format 
 
+# df = pd.read_csv('RadioLens.csv')
+
+# df['Arrival Time'] = pd.to_datetime(df['Arrival Time'], format='mixed')
+
+# df.dropna(subset=['Arrival Time'], inplace = True)
+
+# print(df.to_string())
+
+
+
+
+
+
+# Pandas - Fixing Wrong Data
+
 df = pd.read_csv('RadioLens.csv')
 
-df['Arrival Time'] = pd.to_datetime(df['Arrival Time'], format='mixed')
-
-df.dropna(subset=['Arrival Time'], inplace = True)
+df.loc[4,'Age'] = 47
 
 print(df.to_string())
 
+
+for x in df.index:
+  if df.loc[x, "Age"] > 90:
+    df.loc[x, "Age"] = 90
+
+print(df.to_string())
+
+
+for x in df.index:
+  if df.loc[x, "Age"] > 120:
+    df.drop(x, inplace = True)
