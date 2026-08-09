@@ -1,0 +1,75 @@
+Patient ID,Patient Status,Patient Name,Sex,Age,Criticality,TAT,Modality,Procedure,Study Description,Img,Radiologist,Arrival Time,Hospital Name,Clinical History,Referring Physician
+695797Update Patient,Addendum Ready to Read,Shilpi Paul,F,38,Emergency,"08/07/2026, 06:18:02 PM",DX,SINOGRAM,CONTRAST,4,DR. NUSRAT TAMANNA,"08/07/2026, 06:05 PM",CHANDER HASHI HOSPITAL LTD (UNIT-1),,Assist. Prof. Dr. Anuj Kanti Dash.   MBBS BCS FCPS (Surgery).
+D2607131577Update Patient,Unassigned,Kamrun Nahar,F,60,,,DX,KNEE JOINT LEFT,LOWER EXTREMITY,2,,"07/31/2026, 06:09 PM","DOCTOR'S POINT, FENI",,
+D2608131639Update Patient,Unassigned,Abdul Khaleque,M,26,,,DX,DORSAL SPINE B/V,SPINE,2,,"08/04/2026, 03:21 PM","DOCTOR'S POINT, FENI",,
+D2608131645Update Patient,Unassigned,Anowara,F,55,,,DX,,LOWER EXTREMITY,2,,"08/04/2026, 05:48 PM","DOCTOR'S POINT, FENI",,
+D2608131643Update Patient,Unassigned,Peyera Begum,F,62,,,DX,Unknown,Unknown,2,,"08/04/2026, 05:58 PM","DOCTOR'S POINT, FENI",,Unknown
+D2608131642Update Patient,Unassigned,Forid Uddin,M,48,,,DX,,LOWER EXTREMITY,2,,"08/04/2026, 06:01 PM","DOCTOR'S POINT, FENI",,
+D2608131647Update Patient,Unassigned,Jannatul Ferdous,F,24,,,DX,DORSAL SPINE B/V,SPINE,2,,"08/04/2026, 06:02 PM","DOCTOR'S POINT, FENI",,
+D2608131649Update Patient,Unassigned,Nur Jahan,F,46,,,DX,DORSAL SPINE B/V,SPINE,2,,"08/04/2026, 06:05 PM","DOCTOR'S POINT, FENI",,
+D2608131655Update Patient,Unassigned,Kajol,F,38,,,DX,,LOWER EXTREMITY,4,,"08/04/2026, 06:08 PM","DOCTOR'S POINT, FENI",,
+D2608131654Update Patient,Unassigned,Hogandro2,M,50,,,DX,PELVIS AP,PELVIS AP,1,,"08/04/2026, 06:11 PM","DOCTOR'S POINT, FENI",,
+D2608131654Update Patient,Unassigned,Hogandro2,M,50,,,DX,,PELVISNeeds review,2,,"08/04/2026, 06:11 PM","DOCTOR'S POINT, FENI",,
+D2608131657Update Patient,Unassigned,Ariful Islam,M,8,,,DX,,UPPER EXTREMITY,2,,"08/04/2026, 06:39 PM","DOCTOR'S POINT, FENI",,
+313615Update Patient,Addendum Ready to Read,Sumaiya,F,18,,,MR,BRAIN,MRI-Brain,113,ASST. PROF. DR. RAFAEL MURSALIN,"08/05/2026, 06:39 PM","IDEAL CT SCAN & MRI CENTER, NATORE",Headache. CT scan report: Ventriculomegaly,Asst.Prof.Dr.Md.Rabiul Awal FCPS-Medicine
+NE-787825Update Patient,Ready to Read,Ilias,M,47,,,CT,WHOLE ABD0MEN WITH CONTRAST,01_Abd_Quard_Phase_with_Injector(Adult),4284,Dr. Md. Tanzilur Rahman,"08/06/2026, 09:46 AM",EPIC HEALTH CARE LTD. UNIT-2,"Abdomen pain for 15 days, Post op stomach for 08-01-26, Ca stomach, chemo-12.",
+NE/87500Update Patient,Ready to Read,Shorifa Khatun @e,F,45,,,MR,PELVIS,pelvis^EPIC Pelvis,664,Dr. Md. Tanzilur Rahman,"08/06/2026, 09:47 AM",EPIC HEALTH CARE LTD. MAIN BRANCH,"H/O- nausea, anorexia, lower abdominal pain for 3 months.         chemo 02, radio 25, brachy therapy 5.  CA cervix for 1.5 years back.         s.creatinine - 5.2 and eGFR- 9.  ( Also CT Image Send )",
+ID NO. (AUGUST) 0100Update Patient,Addendum Ready to Read,Asma Begum,F,49,,,CR,LUMBO-SACRAL SPINE B/V,PELVIS,2,Dr. Md. Abbas Uddin Chy,"08/06/2026, 10:03 AM","MEDISAVE DIAGNOSTIC & RESEARCH CENTER, CTG",,
+NE 785948Update Patient,Ready to Read,Md. Rafiqul Alam,M,62,,,MR,WHOLE ABDOMEN,abdomen Abdomen,932,Dr. Md. Tanzilur Rahman,"08/06/2026, 11:00 AM",EPIC HEALTH CARE LTD. UNIT-2,"MRI OF  Lower Abdomen with Contrast,
+H/O Pain in the anal and urinary passages for 02 week,",
+ID NO. (AUGUST) 001Update Patient,Addendum Ready to Read,Javed,M,26,,,CR,CHEST PA VIEW,CHEST,1,Dr. Md. Abbas Uddin Chy,"08/06/2026, 11:20 AM","MEDISAVE DIAGNOSTIC & RESEARCH CENTER, CTG",,
+IHC26084Update Patient,Ready to Read,Mohamad Fokhrul Alam,M,34,,,CR,CHEST PA VIEW,CHEST,1,DR. NUSRAT TAMANNA,"08/06/2026, 11:37 AM","INNOVATIVE HEALTH CARE, CTG",,
+IHC260856Update Patient,Ready to Read,Saidul Rahman,M,23,,,CR,CHEST PA VIEW,CHEST,1,DR. NUSRAT TAMANNA,"08/06/2026, 11:39 AM","INNOVATIVE HEALTH CARE, CTG",,
+B-81Update Patient,Unassigned,Sharmin Akter,F,24,,,MR,BRAIN,Brain^chevron,128,,"08/06/2026, 11:43 AM","CHEVRON CLINICAL LAB, MAIN BRANCH",,
+E 19Update Patient,Ready to Read,Badrul Hoque,M,70,,,CT,WHOLE ABDOMEN,C+W/A+C,3464,Dr. Md. Tanzilur Rahman,"08/06/2026, 11:51 AM","CHEVRON CLINICAL LAB, MAIN BRANCH","? Ca Stomach, Difficulty take food, burning abdomen 3 months",
+8070441Update Patient,Ready to Read,Lucky Chowdhury,F,65,,,MR,KNEE JOINT LEFT,LEFT  Knee,164,Dr. Md. Tanzilur Rahman,"08/06/2026, 11:52 AM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),"KNEE PAIN
+DIFFICULT IN WALK",
+8070504Update Patient,Ready to Read,Imran,M,38,,,MR,KNEE JOINT RIGHT,RT Knee,165,Dr. Md. Tanzilur Rahman,"08/06/2026, 11:58 AM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),"sport injury 10 MONTH BACK
+NOW PAIN e DIFFICULTY IN WALK",
+432432Update Patient,Draft,testing for transcriptionist,M,15,,,CR,CHEST PA VIEW,ABDOMEN E/P,2,Radiologist Test User,"08/06/2026, 12:08 PM",Test,,
+8070674Update Patient,Ready to Read,Kamal Hossain,M,27,,,MR,LUMBO-SACRAL SPINE WITH SCREENING W/S,Lumbar WSP,86,Dr. Md. Tanzilur Rahman,"08/06/2026, 12:18 PM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),LBP e L/L RADIATING,
+IHC26083Update Patient,Ready to Read,Md. Ikbal Hossan,M,23,,,CR,CHEST PA VIEW,CHEST,1,DR. NUSRAT TAMANNA,"08/06/2026, 12:20 PM","INNOVATIVE HEALTH CARE, CTG",,
+8069296Update Patient,Ready to Read,Rowson Delgir,F,82,,,MR,PELVIS WITH CONTRAST,CA RECTUM,872,Dr. Md. Tanzilur Rahman,"08/06/2026, 01:45 PM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),P/R BIADDING,
+8071035Update Patient,Ready to Read,Abdul Mannan,M,46,,,MR,KNEE JOINT LEFT,LT.  Knee,164,Dr. Md. Tanzilur Rahman,"08/06/2026, 06:44 PM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),"CHIKUNGUNYA -2 YEARS BACK
+LT KNEE MOVINIG PROBLEM
+LBP",
+I 48Update Patient,Ready to Read,Rakib Md.,M,21,,,MR,PELVIS,MR Fistulogram with contrast,769,Dr. Md. Tanzilur Rahman,"08/06/2026, 07:23 PM","CHEVRON CLINICAL LAB, MAIN BRANCH",Rec.fistula in Ano with abscess ( left lateral aspcet of Anus). H/O Operation 9 month back.,
+NE787500Update Patient,Ready to Read,Shorifa Khatun Mri,F,45,,,CT,CT CUT FOR MR,Abdomen^MRI_Support_Scan (Adult),353,Dr. Md. Tanzilur Rahman,"08/06/2026, 10:24 PM",EPIC HEALTH CARE LTD. MAIN BRANCH,MRI OF PELVIS SUPPORTING.----,
+NE-785116Update Patient,Ready to Read,Shariful Islam,M,34,,,CT,LOWER ABDOMEN WITH CONTRAST,01_Abd_Quard_Phase_with_Injector(Adult),1407,Dr. Somaiya Hassan,"08/07/2026, 08:51 AM",EPIC HEALTH CARE LTD. UNIT-2,"Low abdomen pain , low back pain for 01 years ago.",
+D2608131725Update Patient,Unassigned,Mizanur Rahaman,M,30,,,DX,ABDOMEN E/P,ABDOMEN,1,,"08/07/2026, 11:02 AM","DOCTOR'S POINT, FENI",,
+D2608131728Update Patient,Unassigned,Nahiyan Uddin,M,8,,,DX,,HEAD,2,,"08/07/2026, 11:59 AM","DOCTOR'S POINT, FENI",,
+313641Update Patient,Ready to Read,Selina,F,50,,,CT,KUB,Body 5.000,144,ASST. PROF. DR. RAFAEL MURSALIN,"08/07/2026, 12:04 PM","IDEAL CT SCAN & MRI CENTER, NATORE",PAIN,"DR.MD.ZILLUR RAHMAN MBBS,BCS,FCPS-Urology"
+8071007Update Patient,Unassigned,Munshi Miah,M,70,,,MR,MRS BRAIN,Brain MRS.PRF,2911,,"08/07/2026, 12:11 PM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),,
+8070069Update Patient,Ready to Read,Nur Jahan,F,70,,,MR,MRS BRAIN,Brain MRS. PRF,4492,Dr. Md. Tanzilur Rahman,"08/07/2026, 12:43 PM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),"FEVER 
+UNCONCIOSNESS",
+313656Update Patient,Ready to Read,Abdul Awal,M,37,,,MR,CERVICAL SPINE,MRI-C-Spine,55,ASST. PROF. DR. RAFAEL MURSALIN,"08/07/2026, 05:17 PM","IDEAL CT SCAN & MRI CENTER, NATORE",Neck pain,"ASST.PROF.DR.ACHINTA KUMAR MOLLICK MBBS,BCS,MD-Neurology"
+D260813174Update Patient,Unassigned,Swaity,F,30,,,DX,LUMBAR SPINE B/V,SPINE,2,,"08/07/2026, 05:31 PM","DOCTOR'S POINT, FENI",,
+313657Update Patient,Ready to Read,Azizul Islam,M,45,,,MR,LUMBO-SACRAL SPINE WITH SCREENING W/S,MRI-L-Spine,63,ASST. PROF. DR. RAFAEL MURSALIN,"08/07/2026, 05:46 PM","IDEAL CT SCAN & MRI CENTER, NATORE",LBP,"DR.DIP KUMAR DATTA MBBS,D-ORTHO."
+8071326Update Patient,Ready to Read,Poly Sultana,F,21,,,MR,BRAIN,Brain,393,Lt. Col. Dr. Syed Abdul Quader,"08/07/2026, 06:37 PM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),"HEADACHE
+VERTIGO
+CONVULSION",
+D2608131751Update Patient,Unassigned,Babul,M,63,,,DX,CHEST PA VIEW,CHEST,1,,"08/07/2026, 07:02 PM","DOCTOR'S POINT, FENI",,
+D2608131750Update Patient,Unassigned,Foyezun Nessa2,F,65,,,DX,CHEST PA VIEW,CHEST PA VIEW,1,,"08/07/2026, 07:09 PM","DOCTOR'S POINT, FENI",,
+D2608131750Update Patient,Unassigned,Foyezun Nessa2,F,65,,,DX,,CHESTNeeds review,2,,"08/07/2026, 07:09 PM","DOCTOR'S POINT, FENI",,
+D2608131754Update Patient,Unassigned,Afroza Begum,F,52,,,DX,CHEST PA VIEW,CHEST,1,,"08/07/2026, 07:24 PM","DOCTOR'S POINT, FENI",,
+D2608131755Update Patient,Unassigned,Humayra,M,5,,,DX,,UPPER EXTREMITY,2,,"08/07/2026, 07:53 PM","DOCTOR'S POINT, FENI",,
+ID-403Update Patient,Ready to Read,Abdullah Al Mahim,M,0,,,CR,CHEST AP VIEW,CHEST,1,DR. NUSRAT TAMANNA,"08/07/2026, 08:57 PM","ALPHA LAB PRIVATE LTD, CTG",,
+262965Update Patient,Ready to Read,Iqra,F,3,,,DX,CHEST AP VIEW,CHEST,1,DR. MIR NAZ FARZANA,"08/07/2026, 08:57 PM","DKMC HOSPITAL LTD, BHULTA",,DR^FAUZIA^NASRIN^MBBS^BCS FCPS DCH
+8071359Update Patient,Ready to Read,Shahnaz Begum,F,52,,,MR,BRAIN,Brain,405,Lt. Col. Dr. Syed Abdul Quader,"08/07/2026, 09:03 PM",NATIONAL HOSPITAL & SIGMA LAB LTD. (CT & MRI),FACIAL PALSY,
+262972Update Patient,Ready to Read,Naimul,M,3,,,DX,CHEST AP VIEW,CHEST,1,DR. MIR NAZ FARZANA,"08/07/2026, 09:07 PM","DKMC HOSPITAL LTD, BHULTA",,DR^FAUZIA^NASRIN^MBBS^BCS FCPS DCH
+262978Update Patient,Ready to Read,Ratri,F,14,,,DX,CHEST PA VIEW,CHEST,1,DR. MIR NAZ FARZANA,"08/07/2026, 09:12 PM","DKMC HOSPITAL LTD, BHULTA",,OPD^^^^
+ID NO 0043Update Patient,Ready to Read,Joni,M,40,,,CR,FOOT LEFT,LOW_EXM,1,Lt. Col. Dr. Farhana Zaman,"08/07/2026, 09:15 PM","BAY CITY MEDICAL SERVICES, CTG",,
+ID NO 005Update Patient,Ready to Read,Arian Hossain,M,2,,,CR,CHEST PA VIEW,CHEST,1,Lt. Col. Dr. Farhana Zaman,"08/07/2026, 09:15 PM","BAY CITY MEDICAL SERVICES, CTG",,
+ID NO 006Update Patient,Ready to Read,Piyashi Chakma,F,29,,,CR,SKULL B/V,HEAD,2,Lt. Col. Dr. Farhana Zaman,"08/07/2026, 09:15 PM","BAY CITY MEDICAL SERVICES, CTG",,
+262986Update Patient,Ready to Read,Khokon,M,57,,,DX,CHEST PA VIEW,CHEST,1,DR. MIR NAZ FARZANA,"08/07/2026, 09:22 PM","DKMC HOSPITAL LTD, BHULTA",,OPD^^^^
+262989Update Patient,Ready to Read,Nawaf,M,1,,,DX,CHEST AP VIEW,CHEST,1,DR. MIR NAZ FARZANA,"08/07/2026, 09:31 PM","DKMC HOSPITAL LTD, BHULTA",,OPD^^^^
+ID NO 0030Update Patient,Ready to Read,Md. Abdul Mannan,M,50,,,CR,LUMBO-SACRAL SPINE B/V,PELVIS,2,Lt. Col. Dr. Farhana Zaman,"08/07/2026, 09:49 PM","BAY CITY MEDICAL SERVICES, CTG",,
+ID NO 0054Update Patient,Ready to Read,Md. Emam,M,39,,,CR,CHEST PA VIEW,CHEST,1,Lt. Col. Dr. Farhana Zaman,"08/07/2026, 09:51 PM","BAY CITY MEDICAL SERVICES, CTG",,
+ID NO 0025Update Patient,Ready to Read,Md. Shakil,M,20,,,CR,FEMUR / THIGH LEFT,LOW_EXM,2,Lt. Col. Dr. Farhana Zaman,"08/07/2026, 09:53 PM","BAY CITY MEDICAL SERVICES, CTG",,
+ID NO 0041Update Patient,Ready to Read,Rabeya,F,8,,,CR,PNS (OM) VIEW,HEAD,1,Lt. Col. Dr. Farhana Zaman,"08/07/2026, 09:55 PM","BAY CITY MEDICAL SERVICES, CTG",,
+B71Update Patient,Ready to Read,Saydur Rahman,M,71,,,CT,BRAIN / HEAD,01_Brain Plain(Adult),419,Lt. Col. Dr. Syed Abdul Quader,"08/07/2026, 09:56 PM","CHEVRON CLINICAL LAB, SHANTIBAG",,
+NE780134Update Patient,Ready to Read,Bibi Amena,F,40,,,CT,WHOLE ABD0MEN WITH CONTRAST,01_Abd_Quard_Phase_with_Injector(Adult),5602,Dr. Md. Asaduzzaman,"08/07/2026, 10:04 PM",EPIC HEALTH CARE LTD. UNIT-2,"Abdominal pain, abdomen swelling, urine infection, burning sensation in urine for 20 days, ( op -excision of sinus tract 12-10-24,",
+86267Update Patient,Ready to Read,Md. Jewel,M,21,,,CR,CHEST PA VIEW,CHEST,1,Prof. Dr. Md. Mobarak Ali,"08/07/2026, 10:09 PM","NAGORIK HOSPITAL, CTG",,
+NG-115783Update Patient,Unassigned,Mohammad Belal,M,40,,,CT,BRAIN / HEAD,01_Brain Plain(Adult),526,,"08/07/2026, 10:17 PM",EPIC HEALTH CARE LTD. UNIT-2,,
+7564Update Patient,In Progress,Md. Osman,M,14,,,DX,ELBOW JOINT LEFT,UPPER EXTREMITY,2,Prof. Dr. Nur Mohammad,"08/07/2026, 10:19 PM",GARJANIA GENERAL HOSPITAL & DIAGNOSTIC CENTER,,SELF
+Aug.84479Update Patient,Ready to Read,Abdullah Forid,M,26,,,CR,LUMBO-SACRAL SPINE B/V,PELVIS,2,Prof. Dr. Nur Mohammad,"08/07/2026, 10:20 PM","ESQUARE LAB, FENI",,
